@@ -1,3 +1,5 @@
+package NotOrtalamasiOdevi;
+
 import java.util.Scanner;
 public class NotOrt60lamasiHesaplamaOdevi {
 
