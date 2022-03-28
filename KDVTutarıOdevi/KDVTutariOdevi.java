@@ -13,7 +13,7 @@ public class KDVTutariOdevi {
 
         //Verilerin Kullanıcıdan Alınması
         System.out.println("Fiyatı Giriniz : ");
-        Fiyat = inp.nextInt();
+        Fiyat = inp.nextDouble();
 
         //Verilerin Hesaplanması
         KDVFiyat = Fiyat * 1.18;
