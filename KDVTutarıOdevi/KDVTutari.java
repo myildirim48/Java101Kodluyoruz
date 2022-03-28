@@ -1,4 +1,3 @@
 package KDVTutarıOdevi;
 
-public class KDVTutari {
-}
+import java.util.Scanner;
