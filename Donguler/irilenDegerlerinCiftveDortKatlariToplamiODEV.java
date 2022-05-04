@@ -17,6 +17,6 @@ public class irilenDegerlerinCiftveDortKatlariToplamiODEV {
 
         }while(n % 2 == 0);
 
-        System.out.print("Çift ve 4'e bölünen sayılar : " + sum);
+        System.out.print("Çift ve 4'e bölünen sayılar : " + total);
     }
 }
